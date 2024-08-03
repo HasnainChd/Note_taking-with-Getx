@@ -1,5 +1,9 @@
 # note_app
 
+https://github.com/user-attachments/assets/d1b43ad9-8d5a-40cb-a764-2d0e515a95c7
+
+
+
 A new Flutter project.
 
 ## Getting Started
